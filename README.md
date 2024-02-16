@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey, I'm Sureshkumar Bishnoi</h1>
+
 
 <div align="center"> 
-  <img src="your_banner_image_url" alt="Banner Image">
+  <img src="https://github.com/Sk-bishnoi/Sk-bishnoi/blob/main/github-header-image.png" alt="Banner Image">
 </div>
 
 <h3 align="center">Data Scientist | Image Processing Enthusiast</h3>
